@@ -102,9 +102,6 @@ Example Output:
 Predicted Output: Ferrari 250 GTO
 ```
 
-![Example Image](https://your_image_url_here.jpg)
-
----
 
 ## 💡 Future Improvements
 
